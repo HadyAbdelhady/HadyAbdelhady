@@ -14,7 +14,7 @@
 
 <h3 align="center">About Me</h3>
 <p align="center">
-I am an enthusiastic undergraduate embedded software engineer who thrives on solving intricate challenges within the realm of hardware and software integration.</p>
+I am an enthusiastic undergraduate embedded software engineer who thrives on solving intricate challenges within the realm of hardware and software integration.Graduated from ITI Summer training 2023</p>
 
 <h3 align="center">Education</h3>
 <p align="center">
