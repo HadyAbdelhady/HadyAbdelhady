@@ -1,5 +1,15 @@
 <h1 align="center"> Greatings...! 👋</h1>
 
+
+
+<h3 align="center">About Me</h3>
+<p align="center">
+I am an enthusiastic undergraduate embedded software engineer who thrives on solving intricate challenges within the realm of hardware and software integration. Graduated from ITI Summer Training. 2023</p>
+
+<h3 align="center">Education</h3>
+<p align="center">
+  - Faculty of Engineering, Computer And Control Systems Department, Mansoura University
+</p>
 <p align="center">
   Connect with me on:
 </p>
@@ -11,16 +21,6 @@
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" width="40" />
   </a>
 </p>
-
-<h3 align="center">About Me</h3>
-<p align="center">
-I am an enthusiastic undergraduate embedded software engineer who thrives on solving intricate challenges within the realm of hardware and software integration. Graduated from ITI Summer Training. 2023</p>
-
-<h3 align="center">Education</h3>
-<p align="center">
-  - Faculty of Engineering, Computer And Control Systems Department, Mansoura University
-</p>
-
 <h3 align="center">Projects</h3>
 <p align="center">
   <a href="https://github.com/HadyAbdelhady/MicroMouse_IEEE">1- MicroMouse_IEEE</a>: Our IEEE VICTORIS entry demonstrates an innovative maze-solving solution with custom C code on an ATmega32 MCU, featuring custom drivers, a Floodfill algorithm, PID motor control, ultrasonic sensors, and encoders.
