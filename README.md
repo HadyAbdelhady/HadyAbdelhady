@@ -7,7 +7,7 @@
 I am an enthusiastic undergraduate embedded software engineer who thrives on solving intricate challenges within the realm of hardware and software integration. Graduated from ITI Summer Training. 2023</p>
 <p align="center">
   <a href="https://drive.google.com/file/d/14PIl8z4EAnerVMBtUC2Jpw-1XUZzOFuJ/view?usp=sharing" target="_blank">
-    <img src="https://www.clipartmax.com/png/middle/97-978185_cv-library-banners-cv-library-jobs.png" alt="LinkedIn" height="30" width="40" />
+    <img src="https://i.pinimg.com/564x/e8/3d/07/e83d075bca1a8ccb6a10138a53653696.jpg" alt="LinkedIn" height="30" width="40" />
   </a>
   </p>
 <h3 align="center">Education</h3>
